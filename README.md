@@ -14,6 +14,6 @@
 - Freelance Web Designer & Creative Facilitator (basically I help businesses craft beautiful and functional websites, SaaS products, apps, design systems, and even graphic goodies)
 
 📫 **Wanna chat?**
-- Hit me up on Linkedin [https://www.linkedin.com/in/sarah-ablonet/)] or Bento [https://bento.me/sarah-ablonet]
+- Hit me up on Linkedin [https://www.linkedin.com/in/sarah-ablonet/] or Bento [https://bento.me/sarah-ablonet]
 
 **Let's collaborate on something epic, or just geek out about our favorite things!**
