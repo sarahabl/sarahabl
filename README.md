@@ -8,7 +8,7 @@
 - Ayurvedic Massages (for peak relaxation, obviously)
   
 🌱 **I’m currently learning** ...
-- Front-End Development (HTML, CSS, JavaScript, Bootstrap, React, WordPress - basically the whole web dev buffet)
+- Front-End Development (HTML, CSS, JavaScript, Bootstrap, React, WordPress - basically the whole front web dev buffet)
   
 💞️ **My day job?**
 - Freelance Web Designer & Creative Facilitator (basically I help businesses craft beautiful and functional websites, SaaS products, apps, design systems, and even graphic goodies)
