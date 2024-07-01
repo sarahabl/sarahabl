@@ -1,4 +1,4 @@
-#👋 Hi there, I'm @sarahab !
+**👋 Hi there, I'm @sarahab !**
 
 **👀 Obsessed with:**
 - Products (think shiny, digital kind):
@@ -16,4 +16,4 @@
 📫 **Wanna chat?**
 - Hit me up on Linkedin [https://www.linkedin.com/in/sarah-ablonet/)] or Bento [https://bento.me/sarah-ablonet]
 
-##Let's collaborate on something epic, or just geek out about our favorite things!
+**Let's collaborate on something epic, or just geek out about our favorite things!**
